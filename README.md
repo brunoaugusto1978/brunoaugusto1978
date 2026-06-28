@@ -137,3 +137,5 @@ https://github.com/brunoaugusto1978
 ---
 
 > Security, intelligence and strategy to protect data, people and decisions.
+
+<!-- profile-readme-refresh -->
